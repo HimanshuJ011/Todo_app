@@ -30,7 +30,9 @@ body{
     text-align: center;
     margin-top: 20px;
     justify-content: center;
-    width: 100%;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 50%;
     background-color: hsl(0, 85%, 74%);
 }
 .todoItem{
